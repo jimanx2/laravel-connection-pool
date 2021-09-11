@@ -1,5 +1,5 @@
 {
-    "name": "jimanx2/laravel-connection-pool",
+    "name": "x/laravel-connection-pool",
     "description": "Connection pooling for illuminate/database",
     "keywords": ["laravel", "connection", "pooling", "database", "php", "async", "concurrency", "coroutine"],
     "homepage": "https://github.com/mink/laravel-connection-pool",
